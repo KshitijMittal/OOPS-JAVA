@@ -1,4 +1,5 @@
-// 6th Program
+// Write a program to print all real solutions for quadratic equation ax2 + bx + c = 0. Read the values of a,b,c and use the quadratic formula. If the discriminant is negative display a message stating there are no real solutions.
+
 import java.util.* ;
 public class Roots_of_Quadratic_Equation {
     public static void main(String[] args) {

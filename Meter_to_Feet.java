@@ -1,4 +1,5 @@
-// 5th Program
+// Write a program to read a number metre and convert it into feet and display the result.
+
 import java.util.* ;
 public class Meter_to_Feet {
     public static void main(String[] args) {

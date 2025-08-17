@@ -1,4 +1,5 @@
-//3rd Program
+//Write a program to perform basic arithmetic operations.
+
 import java.util.* ;
 public class Arithmetic_Operations {
     public static void main(String[] args) {
