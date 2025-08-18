@@ -30,7 +30,7 @@ public class Roots_of_Quadratic_Equation {
             System.out.println("The two real roots are:");
             double root1 = (-b + Math.sqrt(D)) / (2*a);
             double root2 = (-b - Math.sqrt(D)) / (2*a);
-             System.out.println("Root 1: " + root1);
+            System.out.println("Root 1: " + root1);
             System.out.println("Root 2: " + root2);
         } else if (D == 0) {
             System.out.println("The single real root is:");

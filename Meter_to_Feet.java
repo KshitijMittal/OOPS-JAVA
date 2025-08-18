@@ -6,7 +6,7 @@ public class Meter_to_Feet {
         
         Scanner sc = new Scanner (System.in);
         System.out.print("Enter the value in meters: ");
-        float a = sc.nextInt();
+        float a = sc.nextFloat();
         sc.close();
         
         System.out.print("Your value in feet is "+ (a * 3.2808399));
