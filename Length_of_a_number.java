@@ -10,7 +10,7 @@ public class Length_of_a_number {
         
         int length = 0;
         int temp = n;
-        
+
         if (n == 0) {
             length = 1; // Special case for 0
         } else {
@@ -19,7 +19,7 @@ public class Length_of_a_number {
                 length++;
             }
         }
-        
+
         System.out.println("The length of the number " + n + " is: " + length);
     }
 }
