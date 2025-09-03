@@ -1,5 +1,5 @@
 /* Java program for swapping the value of two positive integer numbers in the following manner :
-1. Using 3rd variable 
+1. Using 3rd variable
 2. Without using 3rd variable */
 
 public class Swapping_the_value_of_two_positive_integer {
@@ -19,9 +19,9 @@ public class Swapping_the_value_of_two_positive_integer {
 
         // Swapping without using a third variable
         System.out.println("Before swapping without third variable: a = " + a + ", b = " + b);
-        a = a + b; 
-        b = a - b; 
-        a = a - b; 
+        a = a + b;
+        b = a - b;
+        a = a - b;
         System.out.println("After swapping without third variable: a = " + a + ", b = " + b);
     }
 }
