@@ -3,7 +3,7 @@
 import java.util.* ;
 public class Roots_of_Quadratic_Equation {
     public static void main(String[] args) {
-        
+
         Scanner sc = new Scanner (System.in) ;
         System.out.print("Enter the value of a: ");
         int a = sc.nextInt();
@@ -12,20 +12,20 @@ public class Roots_of_Quadratic_Equation {
         System.out.print("Enter the value of c: ");
         int c = sc.nextInt();
         sc.close();
-        
+
         System.out.println();
-        
+
         System.out.print("Your quadratic equation is: "+ a + "x^2 + " + b + "x + " + c + " = 0");
-        
+
         System.out.println();
         System.out.println();
-        
+
         double D = ((b*b) - (4*a*c));
         System.out.print("The Discriminent of the equation is: "+ D);
-        
+
         System.out.println();
         System.out.println();
-        
+
         if (D > 0) {
             System.out.println("The two real roots are:");
             double root1 = (-b + Math.sqrt(D)) / (2*a);
@@ -39,6 +39,6 @@ public class Roots_of_Quadratic_Equation {
         } else {
             System.out.println("There are no real solution for this quadratic equation.");
         }
-        
+
     }
 }

@@ -4,12 +4,12 @@ import java.util.*;
 public class Simple_Calculator {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        
+
         System.out.print("Enter first number: ");
         float num1 = sc.nextFloat();
         System.out.print("Enter second number: ");
         float num2 = sc.nextFloat();
-        
+
         System.out.println("Choose an operation: ");
         System.out.println("1. Addition (+)");
         System.out.println("2. Subtraction (-)");
@@ -17,7 +17,7 @@ public class Simple_Calculator {
         System.out.println("4. Division (/)");
 
         int choice = sc.nextInt();
-        
+
         switch (choice) {
             case 1:
                 System.out.println("Result: " + (num1 + num2));
@@ -38,7 +38,7 @@ public class Simple_Calculator {
             default:
                 System.out.println("Invalid choice.");
         }
-        
+
         sc.close();
     }
 }
