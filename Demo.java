@@ -2,9 +2,9 @@
 class Thsdemo {
     int a,b;
 
-    public void get(int x, int y) {
-        x = a;
-        y = b;
+    public void get(int a, int b) {
+        this.a = a;
+        this.b = b;
     }
 
     public void put() {
