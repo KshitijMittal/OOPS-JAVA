@@ -13,7 +13,7 @@ class Thsdemo {
     }
 }
 
-class Demo {
+class This_Keyword {
     public static void main(String[] args) {
         Thsdemo obj = new Thsdemo();
         obj.get(10,20);
