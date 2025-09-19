@@ -21,5 +21,6 @@ class Subclass extends Superclass{
 public class Super_Method {
     public static void main(String[] args) {
         Subclass obj1 = new Subclass();
+        System.out.println(obj1);
     }
 }
