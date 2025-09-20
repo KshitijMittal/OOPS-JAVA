@@ -1,3 +1,5 @@
+// Java program to demonstrate static method
+
 public class Static_Method {
     // static variable
      static int a = 40;
