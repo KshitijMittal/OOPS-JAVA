@@ -1,3 +1,5 @@
+// Java program to demonstrate static block
+
 public class Static_Block {
     // Static Block
     static {
