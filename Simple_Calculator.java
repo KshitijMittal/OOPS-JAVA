@@ -42,3 +42,16 @@ public class Simple_Calculator {
         sc.close();
     }
 }
+
+/*
+Output:
+Enter first number: 10
+Enter second number: 5
+Choose an operation:
+1. Addition (+)
+2. Subtraction (-)
+3. Multiplication (*)
+4. Division (/)
+1
+Result: 15.0
+*/
