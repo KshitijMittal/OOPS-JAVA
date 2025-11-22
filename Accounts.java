@@ -33,3 +33,10 @@ public class Accounts {
         acc1.withdraw(2000);
     }
 }
+
+/*
+Output:
+Deposited: 500.0 | New Balance: 1500.0
+Withdrew: 200.0 | New Balance: 1300.0
+Insufficient Balance! Current: 1300.0
+*/
