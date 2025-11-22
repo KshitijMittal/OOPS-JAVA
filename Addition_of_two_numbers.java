@@ -17,3 +17,10 @@ public class Addition_of_two_numbers {
         sc.close();
     }
 }
+
+/*
+Output:
+Enter first number: 10
+Enter second number: 20
+The sum of 10 and 20 is: 30
+*/
