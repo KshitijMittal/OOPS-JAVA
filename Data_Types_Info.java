@@ -50,3 +50,45 @@ public class Data_Types_Info {
         System.out.println("Object: Root class of all Java classes.");
     }
 }
+
+/*
+Output:
+===== PRIMITIVE DATA TYPES =====
+byte:
+Size: 1 bytes
+Range: -128 to 127
+
+short:
+Size: 2 bytes
+Range: -32768 to 32767
+
+int:
+Size: 4 bytes
+Range: -2147483648 to 2147483647
+
+long:
+Size: 8 bytes
+Range: -9223372036854775808 to 9223372036854775807
+
+float:
+Size: 4 bytes
+Range: 1.4E-45 to 3.4028235E38
+
+double:
+Size: 8 bytes
+Range: 4.9E-324 to 1.7976931348623157E308
+
+char:
+Size: 2 bytes
+Range: 0 to 65535
+
+boolean:
+Size: Not precisely defined (typically 1 bit or 1 byte)
+Range: true or false
+
+===== NON-PRIMITIVE DATA TYPES =====
+String: Represents a sequence of characters. Size varies based on content.
+Array: Container object that holds fixed number of values of a single type.
+Class: Blueprint for creating objects.
+Object: Root class of all Java classes.
+*/
