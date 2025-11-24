@@ -30,3 +30,10 @@ public class Bank_Demo {
         acc.withdraw(1500);
     }
 }
+
+/*
+Output:
+Deposited: 500.0, Balance: 1500.0
+Withdrawn: 300.0, Balance: 1200.0
+Insufficient balance.
+*/
