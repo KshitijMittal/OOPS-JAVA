@@ -25,3 +25,11 @@ public class Exception_Handling_With_try_catch_block {
         sc.close();
     }
 }
+
+/*
+Output:
+Enter first number: 10
+Enter second number: 0
+Problem in divide
+Sorry other work.
+*/
