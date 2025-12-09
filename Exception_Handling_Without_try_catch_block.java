@@ -19,3 +19,11 @@ public class Exception_Handling_Without_try_catch_block {
         sc.close();
     }
 }
+
+/*
+Output:
+Enter first number: 10
+Enter second number: 0
+Exception in thread "main" java.lang.ArithmeticException: / by zero
+    at Exception_Handling_Without_try_catch_block.main(Exception_Handling_Without_try_catch_block.java:13)
+*/
