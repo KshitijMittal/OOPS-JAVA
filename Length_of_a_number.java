@@ -7,7 +7,7 @@ public class Length_of_a_number {
         System.out.print("Enter the number: ");
         int n = sc.nextInt();
         sc.close();
-        
+
         int length = 0;
         int temp = n;
 
@@ -23,3 +23,9 @@ public class Length_of_a_number {
         System.out.println("The length of the number " + n + " is: " + length);
     }
 }
+
+/*
+Output:
+Enter the number: 12345
+The length of the number 12345 is: 5
+*/
