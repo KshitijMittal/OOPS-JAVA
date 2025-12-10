@@ -23,3 +23,9 @@ public class Inheritance_Demo_Super_Keyword {
         s.display();
     }
 }
+
+/*
+Output:
+Person Name: John
+Student Name: Alice
+*/
