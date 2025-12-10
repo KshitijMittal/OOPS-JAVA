@@ -20,3 +20,9 @@ public class Fibonacci_Series {
         }
     }
 }
+
+/*
+Output:
+Enter the number of terms in the Fibonacci series: 7
+Fibonacci Series: 0, 1, 1, 2, 3, 5, 8
+*/
