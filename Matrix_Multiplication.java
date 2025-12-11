@@ -32,3 +32,11 @@ public class Matrix_Multiplication {
         }
     }
 }
+
+/*
+Output:
+Matrix A X B:
+30 24 18
+84 69 54
+138 114 90
+*/
