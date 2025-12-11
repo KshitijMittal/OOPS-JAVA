@@ -39,3 +39,12 @@ public class Polymorphism_Demo {
         System.out.println("Sum of double and int: " + calc.add(7.5, 5));
     }
 }
+
+/*
+Output:
+Sum of two integers: 55
+Sum of two doubles: 79.8
+Sum of three integers: 30
+Sum of int and double: 22.5
+Sum of double and int: 12.5
+*/
