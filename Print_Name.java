@@ -5,3 +5,8 @@ public class Print_Name {
         System.out.println("Name: Kshitij Mittal");
     }
 }
+
+/*
+Output:
+Name: Kshitij Mittal
+*/
