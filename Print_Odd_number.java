@@ -23,3 +23,10 @@ public class Print_Odd_number {
 
     }
 }
+
+/*
+Output:
+Enter the value of n: 10
+The odd numbers from 1 to 10 are:
+1 3 5 7 9
+*/
