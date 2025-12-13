@@ -2,7 +2,7 @@
 
 public class Print_Adress {
     public static void main(String[] args) {
-        
+
         //using single println statement
         System.out.println("---- Using single println statement ----");
         System.out.println("Address: 123 Main Street, City, Country, Zip Code");
@@ -15,3 +15,14 @@ public class Print_Adress {
         System.out.println("Zip Code: 123456");
     }
 }
+
+/*
+Output:
+---- Using single println statement ----
+Address: 123 Main Street, City, Country, Zip Code
+---- Using multiple println statements ----
+Address:
+123 Main Street
+City, Country
+Zip Code: 123456
+*/
