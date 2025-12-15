@@ -9,3 +9,9 @@ public class Static_Block {
         System.out.println("Main Method");
     }
 }
+
+/*
+Output:
+Static Block Initialized
+Main Method
+*/
