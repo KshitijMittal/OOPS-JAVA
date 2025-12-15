@@ -42,3 +42,15 @@ public class Roots_of_Quadratic_Equation {
 
     }
 }
+
+/*
+Output:
+Enter the value of a: 1
+Enter the value of b: -3
+Enter the value of c: 2
+Your quadratic equation is: 1x^2 + -3x + 2 = 0
+The Discriminent of the equation is: 1.0
+The two real roots are:
+Root 1: 2.0
+Root 2: 1.0
+*/
