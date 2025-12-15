@@ -28,3 +28,9 @@ public class Static_Class {
        // ob1.display();
     }
 }
+
+/*
+Output:
+Static Value: 100
+Outer value : 50
+*/
