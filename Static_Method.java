@@ -27,3 +27,11 @@ public class Static_Method {
         staticDisplay();
     }
 }
+
+/*
+Output:
+40
+50
+40
+40
+*/
