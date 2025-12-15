@@ -31,3 +31,10 @@ class Static_Variable {
         obj3.get();
     }
 }
+
+/*
+Output:
+num: 9
+num: 9
+num: 9
+*/
